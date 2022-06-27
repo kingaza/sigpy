@@ -10,7 +10,7 @@ GPATH
 GRTAGS
 GTAGS
 .cache
-*.npy
+#*.npy
 *.ra
 .idea*
 
